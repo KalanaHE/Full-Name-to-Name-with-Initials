@@ -7,7 +7,7 @@ An automated and useful form attribute generate name with initials from full nam
 ## How this works?
 
 ```html
--Simply while you typing the full name in the input field, this js script generates the Name with initials field.
+-Simply while you typing the full name in the input field, this PHP script generates the Name with initials field.
 ```
 
 ## Contributing
